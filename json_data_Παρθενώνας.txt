@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "id": "/2021733/CHART_GCA1___69_",
+      "title": "Παρθενώνας",
+      "creator": "Aimilios Prosalentis",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fapsida.cut.ac.cy%2Ffiles%2Foriginal%2F200c195f64c41f95199a83dc55ef15c2.jpg&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/413/https___www_searchculture_gr_aggregator_edm_larisa_gallery_000143_el_work_parthenonas_from_digitallibrary",
+      "title": "Παρθενώνας",
+      "creator": "Αγγελόπουλος Μάριος (1911-1995)",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2Flarisa_gallery%2F000143-el_work_parthenonas_from_digitallibrary&type=IMAGE",
+      "date": "1957"
+    },
+    {
+      "id": "/2064920/https___www_searchculture_gr_aggregator_edm_EIM_000042_354878",
+      "title": "Παρθενώνας",
+      "creator": "Άγνωστος δημιουργός",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2FEIM%2F000042-354878&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/2064942/https___www_searchculture_gr_aggregator_edm_POLYGYROS_KOTSIANOS_000072__3A2855",
+      "title": "Παρθενώνας 1",
+      "creator": "Άγνωστος δημιουργός",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2FPOLYGYROS_KOTSIANOS%2F000072-%253A2855&type=TEXT",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/1231/https___www_searchculture_gr_aggregator_edm_DigKalavritaHol_000166_24291",
+      "title": "Ο Παρθενώνας",
+      "creator": "Άγνωστος δημιουργός",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2FDigKalavritaHol%2F000166-24291&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/1592/https___www_searchculture_gr_aggregator_edm_DigPostal_000204_64205",
+      "title": "Ηρώδειο - Παρθενώνας",
+      "creator": "http://semantics.gr/authorities/searchculture-persons/-241799849",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2FDigPostal%2F000204-64205&type=IMAGE",
+      "date": "1965"
+    },
+    {
+      "id": "/126/https___www_searchculture_gr_aggregator_edm_travelogues_000116_53722",
+      "title": "Ο Παρθενώνας.",
+      "creator": "Άγνωστος δημιουργός",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2Ftravelogues%2F000116-53722&type=IMAGE",
+      "date": "1678"
+    },
+    {
+      "id": "/946/https___www_searchculture_gr_aggregator_edm_National_Gallery_000047__3A457137",
+      "title": "Παρθενώνας. Κάτοψη",
+      "creator": "http://semantics.gr/authorities/searchculture-persons/-1842207627",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2FNational_Gallery%2F000047-%253A457137&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/126/https___www_searchculture_gr_aggregator_edm_travelogues_000116_41847",
+      "title": "Ο Παρθενώνας.",
+      "creator": "Άγνωστος δημιουργός",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2Ftravelogues%2F000116-41847&type=IMAGE",
+      "date": "1984"
+    },
+    {
+      "id": "/122/https___www_searchculture_gr_aggregator_edm_ELIA_000100_22_513314",
+      "title": "Parthenon",
+      "creator": "http://semantics.gr/authorities/searchculture-persons/1280288896",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2FELIA%2F000100-22_513314&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/122/https___www_searchculture_gr_aggregator_edm_ELIA_000100_22_592932",
+      "title": "Παρθενώνας.",
+      "creator": "http://semantics.gr/authorities/searchculture-persons/557772544",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2FELIA%2F000100-22_592932&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/122/https___www_searchculture_gr_aggregator_edm_ELIA_000100_22_463931",
+      "title": "Parthenon",
+      "creator": "http://semantics.gr/authorities/searchculture-persons/242719008",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2FELIA%2F000100-22_463931&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    }
+  ]
+}

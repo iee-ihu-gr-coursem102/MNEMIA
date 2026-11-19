@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "id": "/2051914/data_euscreenXL_IL5000039415",
+      "title": "The Consul general of Holland visits van Gogh's exhibition in Milan.",
+      "creator": "Άγνωστος δημιουργός",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimage.archivioluce.com%2Fdm_0%2FIL%2Fvideo_frames%2Fhigh%2FmpegML%2FML001504.jpg&type=VIDEO",
+      "date": "1952"
+    },
+    {
+      "id": "/15508/https___id_kulturpool_at_0e554753_03be_4cc2_8442_8b8c683570d1_cho",
+      "title": "Landschaft mit Haus und Bäumen",
+      "creator": "https://d-nb.info/gnd/118540416",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlungenonline.albertina.at%2Finternal%2Fmedia%2Fdispatcher%2F31167&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/199/item_PXFAZ2GFKCUDGO7UDASBLMXHCC5OUVMS",
+      "title": "Study of flying swallows",
+      "creator": "http://data.europeana.eu/agent/59832",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.bildindex.de%2Fbilder%2Fd%2Fnl00022f11&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/206/item_RLTSWG5CIUI7ZWUPVCHWIGFAGVZST5CB",
+      "title": "Vincent",
+      "creator": "http://data.europeana.eu/agent/166932",
+      "image_url": null,
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/15508/https___id_kulturpool_at_41618c56_8b8a_4ca1_bb80_83a835f5fcd1_cho",
+      "title": "Friedhof im Regen",
+      "creator": "http://data.europeana.eu/agent/59832",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlungenonline.albertina.at%2Finternal%2Fmedia%2Fdispatcher%2F32209&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/199/item_YNR2A4HOECRNKWHHQ2LE5G6GNXEKZ7XF",
+      "title": "Rain Landscape",
+      "creator": "http://data.europeana.eu/agent/59832",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.bildindex.de%2Fbilder%2Fd%2Ffm606822&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/199/item_5HTSXYEQZWSEH3VK2TDFZ3JZRLKHYGQP",
+      "title": "Les cyprès",
+      "creator": "https://d-nb.info/gnd/118540416",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.bildindex.de%2Fbilder%2Fd%2Fmi04022g07&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/199/item_5RRK7IP7VIOT6DJ6QTIIWZ7EHBAIAT73",
+      "title": "Kartoffelfeld in den Dünen",
+      "creator": "http://data.europeana.eu/agent/59832",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.bildindex.de%2Fbilder%2Fd%2Fnl00069b12&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/199/item_K7RNYJ6ZDWGYOMC25N5C77LGJSZCS7C3",
+      "title": "Pine group near a house",
+      "creator": "http://data.europeana.eu/agent/59832",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.bildindex.de%2Fbilder%2Fd%2Fnl00023a10&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/199/item_WXKO7C26JDK2Z7UZI4XWJH75HTDCR23D",
+      "title": "Gasse in Les-Saintes-Maries-de-la-Mer",
+      "creator": "https://d-nb.info/gnd/118540416",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.bildindex.de%2Fbilder%2Fd%2Fmi02880d13&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/199/item_X2L5H7RZ233KF7W744YWQZJYCPZVGVOS",
+      "title": "Marschlandschaft mit Fichten",
+      "creator": "http://data.europeana.eu/agent/59832",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.bildindex.de%2Fbilder%2Fd%2Fnl00022e04&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    },
+    {
+      "id": "/199/item_Z53Q445HBQVFBHT72EMZJ7EJP3YUXWGV",
+      "title": "Wäscherinnen am Fluß",
+      "creator": "https://d-nb.info/gnd/118540416",
+      "image_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.bildindex.de%2Fbilder%2Fd%2Fnl00069c04&type=IMAGE",
+      "date": "Μη διαθέσιμη χρονολογία"
+    }
+  ]
+}
